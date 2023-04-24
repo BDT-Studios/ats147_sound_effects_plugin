@@ -4,4 +4,6 @@
 2. Just drop into plugins folder in restart game.
 3. Turn on Engine, Turbo and Exhaust sounds in settings if you used the Engine Sound Plugin
 
+- Sounds include : Rain, Thunder, Gas Station, Park Brake, Air Compressor, Blinker, more coming soon!
+
 - When switching engine plugins delete ts_fmod_plugin folder and do a clean install each time.
