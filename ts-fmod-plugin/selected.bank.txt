@@ -1,7 +1,7 @@
-sbcat3408air
-caterpillar_c15_rm
 air_compressor
 brake.effects
 park_brake
 stick_blinker
 trailer_coupling
+rain
+thunder
